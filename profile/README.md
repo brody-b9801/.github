@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Brody Blask
 
 **Computer Science @ University of Illinois Urbana-Champaign**
@@ -8,29 +6,29 @@
 <a href="https://linkedin.com/in/brody-blask"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:brodymb2@illinois.edu"><img src="https://img.shields.io/badge/Email-242938?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</div>
-
 ---
 
-<details open>
-<summary><h2>Experience</h2></summary>
+## Hobbies and Interests
 
-- **CS student** @ University of Illinois Urbana-Champaign (4.0 GPA)
-- **Software Developer** @ The stu/dio
-- **Unity Programmer** @ GameBuilders
-- **VEX U Director** @ Illini VEX Robotics
-- **Former Computer Information Systems Intern** @ The City of Saint Charles
+<details>
+<summary>Show</summary>
+
+- Playing video games like FIFA and The Legend of Zelda
+- Making games in my free time
+- Lifting weights
+- Soccer, golf, and basketball
+- VEX U robotics
 
 </details>
 
 ---
 
-<details>
-<summary><h2>Skills</h2></summary>
+## Skills
 
 <details>
-<summary><b>Languages</b></summary>
-<br>
+<summary>Show</summary>
+
+### Languages
 
 <table>
   <tr>
@@ -52,11 +50,7 @@
   </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>Game Dev & Graphics</b></summary>
-<br>
+### Game Dev & Graphics
 
 <table>
   <tr>
@@ -83,11 +77,7 @@
   </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>Web & Frameworks</b></summary>
-<br>
+### Web & Frameworks
 
 <table>
   <tr>
@@ -111,11 +101,7 @@
   </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>Cloud & Infrastructure</b></summary>
-<br>
+### Cloud & Infrastructure
 
 <table>
   <tr>
@@ -139,11 +125,7 @@
   </tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>Tools</b></summary>
-<br>
+### Tools
 
 <table>
   <tr>
@@ -165,15 +147,3 @@
 </table>
 
 </details>
-
-</details>
-
----
-
-<div align="center">
-
-### Contact
-
-<a href="mailto:brodymb2@illinois.edu"><img src="https://img.shields.io/badge/brodymb2%40illinois.edu-242938?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
